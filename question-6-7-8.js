@@ -15,6 +15,6 @@ function linearSearch(needle, haystack){
     
 }
 
-console.log("Does it contain cat? ", linearSearch("cat", dictionary));
-console.log("Does it contain dog? ", linearSearch("dog", dictionary));
-console.log("Does it contain syzygy? ", linearSearch("syzygy", dictionary));
+console.log("Does it contain cat?", linearSearch("cat", dictionary));
+console.log("Does it contain dog?", linearSearch("dog", dictionary));
+console.log("Does it contain syzygy?", linearSearch("syzygy", dictionary));
